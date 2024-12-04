@@ -20,6 +20,7 @@ It is clone of Astore Ecommerce website with all basic functionalities of Ecomme
 - Search: A search bar allows users to search for specific products.
 
 ## Demo
+https://revoke0007.github.io/Ecommerceclone-Website/index.html
 
 ## Video
 [![Video Demo](https://drive.google.com/thumbnail?id=15bfnc0NbPXK9Y_X3okvU7Ym8zjIO-Us-)](https://drive.google.com/uc?id=15bfnc0NbPXK9Y_X3okvU7Ym8zjIO-Us-)

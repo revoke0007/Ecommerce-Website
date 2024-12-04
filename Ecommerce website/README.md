@@ -42,7 +42,7 @@ It is clone of Astore Ecommerce website with all basic functionalities of Ecomme
 
 If you want to contribute or colloborate or want to seek any services, guidence or help connect me through any channel.
 ## Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/sajid-bhatti-b2436b24a)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/hardeep-rohilla/)
 [![GitHub](https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=social)](https://github.com/revoke0007)
 
 ## Keywords:
